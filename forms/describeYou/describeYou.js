@@ -1,3 +1,4 @@
+//Laura Higueras
 
 rdoPersonality.onchange=function(){
   let userChoice = $("input[name=rdoPersonality]:checked").prop("value")
